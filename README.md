@@ -1,7 +1,7 @@
-# Basic Project
-## Basic Project Structure
+# Elements Project
+## Elements Project Structure
 
-*Default Structure for A Basic Project*
+*Default Structure for A Elements Project*
 
 **Java 7**
 
