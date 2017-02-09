@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="77026" started-at="2017-02-05T00:37:53Z" finished-at="2017-02-05T00:39:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="77026" started-at="2017-02-05T00:37:53Z" finished-at="2017-02-05T00:39:11Z">
+      <class name="com.sqa.yt.nestle.NestleTest">
+        <test-method status="PASS" signature="setupFirefox()[pri:0, instance:com.sqa.yt.nestle.NestleTest@491238]" name="setupFirefox" is-config="true" duration-ms="5616" started-at="2017-02-04T16:37:54Z" finished-at="2017-02-04T16:37:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupFirefox -->
+        <test-method status="PASS" signature="testNestle1(java.lang.String)[pri:0, instance:com.sqa.yt.nestle.NestleTest@491238]" name="testNestle1" duration-ms="7924" started-at="2017-02-04T16:37:59Z" data-provider="dp" finished-at="2017-02-04T16:38:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chocolate]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNestle1 -->
+        <test-method status="PASS" signature="setupFirefox()[pri:0, instance:com.sqa.yt.nestle.NestleTest@491238]" name="setupFirefox" is-config="true" duration-ms="4653" started-at="2017-02-04T16:38:07Z" finished-at="2017-02-04T16:38:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupFirefox -->
+        <test-method status="PASS" signature="testNestle1(java.lang.String)[pri:0, instance:com.sqa.yt.nestle.NestleTest@491238]" name="testNestle1" duration-ms="7510" started-at="2017-02-04T16:38:12Z" data-provider="dp" finished-at="2017-02-04T16:38:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Baby]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNestle1 -->
+        <test-method status="PASS" signature="setupFirefox()[pri:0, instance:com.sqa.yt.nestle.NestleTest@491238]" name="setupFirefox" is-config="true" duration-ms="4416" started-at="2017-02-04T16:38:19Z" finished-at="2017-02-04T16:38:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupFirefox -->
+        <test-method status="PASS" signature="testNestle1(java.lang.String)[pri:0, instance:com.sqa.yt.nestle.NestleTest@491238]" name="testNestle1" duration-ms="9639" started-at="2017-02-04T16:38:24Z" data-provider="dp" finished-at="2017-02-04T16:38:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tea]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNestle1 -->
+        <test-method status="PASS" signature="setupFirefox()[pri:0, instance:com.sqa.yt.nestle.NestleTest@491238]" name="setupFirefox" is-config="true" duration-ms="4521" started-at="2017-02-04T16:38:33Z" finished-at="2017-02-04T16:38:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupFirefox -->
+        <test-method status="PASS" signature="testNestle1(java.lang.String)[pri:0, instance:com.sqa.yt.nestle.NestleTest@491238]" name="testNestle1" duration-ms="7776" started-at="2017-02-04T16:38:38Z" data-provider="dp" finished-at="2017-02-04T16:38:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Coffee]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNestle1 -->
+        <test-method status="PASS" signature="setupFirefox()[pri:0, instance:com.sqa.yt.nestle.NestleTest@491238]" name="setupFirefox" is-config="true" duration-ms="4551" started-at="2017-02-04T16:38:46Z" finished-at="2017-02-04T16:38:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupFirefox -->
+        <test-method status="PASS" signature="testNestle1(java.lang.String)[pri:0, instance:com.sqa.yt.nestle.NestleTest@491238]" name="testNestle1" duration-ms="7499" started-at="2017-02-04T16:38:50Z" data-provider="dp" finished-at="2017-02-04T16:38:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Caramel]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNestle1 -->
+        <test-method status="PASS" signature="setupFirefox()[pri:0, instance:com.sqa.yt.nestle.NestleTest@491238]" name="setupFirefox" is-config="true" duration-ms="4523" started-at="2017-02-04T16:38:58Z" finished-at="2017-02-04T16:39:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupFirefox -->
+        <test-method status="PASS" signature="testNestle1(java.lang.String)[pri:0, instance:com.sqa.yt.nestle.NestleTest@491238]" name="testNestle1" duration-ms="8352" started-at="2017-02-04T16:39:02Z" data-provider="dp" finished-at="2017-02-04T16:39:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Water]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNestle1 -->
+      </class> <!-- com.sqa.yt.nestle.NestleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
